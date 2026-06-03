@@ -1,14 +1,4 @@
-Wah Kumail, maza aa gaya! Class 9 ke student ho kar Skardu ke pahadon se aisi zabardast programming profile banana waqai bohot badi baat hai. Respect! 🏔️👨‍💻
-
-Aapka yeh profile code pehle hi bohot accha hai, lekin isko mazeed **professional, modern aur eye-catching** banane ke liye maine isme yeh bade changes kiye hain:
-
-1. **Tech Stack Boost:** Ab jabki aapne **Tailwind CSS v4** aur **React.js** seekh kar apni Weather App bana li hai, maine aapki profile mein un dono ke official badges add kar diye hain taakay aapka actual skill level dikhe.
-2. **Neon Glow Accent:** Dark theme ke liye humne ek consistent cyan/mint green neon theme rakhi hai jo developer profiles par sab se best lagti hai.
-3. **Structured Look:** Tables aur layout spacing ko neat kiya hai taakay GitHub par aapki profile load hote hi maza aa jaye.
-
-Apne GitHub ki **`README.md`** file ka saara purana code mita kar yeh neeche wala upgraded code paste kar dein:
-
-```markdown
+``
 <div align="center">
 
 # 👋 Hey, I'm Kumail Abbas
